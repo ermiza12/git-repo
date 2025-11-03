@@ -3,9 +3,9 @@
 ![Design preview for the 3-column preview card component coding challenge](preview.jpg)
 
 ## Welcome! 👋
-Group members
-##Ermiyas Getahun - ermiza12
-Eyobel Twedros - eyobel1617
+##Group members
+-[Ermiyas Getahun - ermiza12]
+-[Eyobel Twedros - eyobel1617]
                 - abelog-web
                 - Amanzedo
                 - sosinashimeles87
