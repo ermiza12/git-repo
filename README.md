@@ -1,6 +1,4 @@
-# Grade 12B Web Project - 3-column preview card component
-
-![Design preview for the 3-column preview card component coding challenge](preview.jpg)
+# Grade 12B Web Project
 
 ## Welcome! 👋
 ##Group members
