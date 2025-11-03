@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 Group members
-Ermiyas Getahun - ermiza12
+#Ermiyas Getahun - ermiza12
 Eyobel Twedros - eyobel1617
                 - abelog-web
                 - Amanzedo
